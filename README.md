@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-🎓 &nbsp;I got a Computer Science Degree from [University of Yangon](https://www.uy.edu.mm/computer-studies/).
-🌱 &nbsp;I'm on track for learning more about Cross Platform Development And New Technologies.
-✍️ &nbsp;In my free time, I play MOBA Games and Share Knowledge.
-💬 &nbsp;Feel free to reach out to me for some interesting discussion and I am always open to feedbacks and suggestions about my code.
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I got a Computer Science Degree from [University of Yangon](https://www.uy.edu.mm/computer-studies/).\
+🌱 &nbsp;I'm on track for learning more about Cross Platform Development And New Technologies.\
+✍️ &nbsp;In my free time, I play MOBA Games and Share Knowledge.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion and I am always open to feedbacks and suggestions about my code.\
 ✉️ &nbsp;You can shoot me an email at [this](gangsterplm@gmail.com)! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
