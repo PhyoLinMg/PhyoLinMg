@@ -36,9 +36,6 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhyoLinMg&theme=dark)](https://git.io/streak-stats)
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -47,6 +44,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PhyoLinMg&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhyoLinMg&theme=dark)](https://git.io/streak-stats)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
