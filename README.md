@@ -1,13 +1,15 @@
+
 ## 👋 &nbsp;Hey there! I'm Phyo Lin Mg(aka) Lin Maung
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I got a Computer Science Degree from [University of Yangon](https://www.uy.edu.mm/computer-studies/).\
-🌱 &nbsp;I'm on track for learning more about Cross Platform Development And New Technologies.\
-✍️ &nbsp;In my free time, I play MOBA Games and Share Knowledge.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion and I am always open to feedbacks and suggestions about my code.\
-✉️ &nbsp;You can shoot me an email to [linmgp@gmail.com](linmgp@gmail.com)! I'll try to respond as soon as I can.
+💡 I love exploring new technologies and building practical software solutions—from full-featured apps to quick, effective hacks.  
+🎓 I hold a Computer Science degree from the [University of Yangon](https://www.uy.edu.mm/computer-studies/), where I laid the foundation for my development journey.  
+I’m currently diving deeper into cross-platform development and staying up-to-date with emerging technologies.  
+ ✍️ In my free time, I enjoy playing MOBA games and sharing what I learn with the community.  
+💬 I'm always up for meaningful tech discussions and genuinely welcome feedback or suggestions to improve my work.  
+✉️ Feel free to reach out at [phyolinmg.dev@gmail.com](mailto:phyolinmg.dev@gmail.com)—I'll do my best to respond promptly!
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -16,23 +18,17 @@
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=46d1fd)
 
 ######  Native
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518) ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+
+##### Frontend
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React) ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+
 
 ######  Backend
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+ ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 
 ######  Others
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 
 
 
